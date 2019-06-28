@@ -1,0 +1,9 @@
+[package]
+name = "rk-pc"
+version = "0.1.0"
+authors = ["Rachel K <raech.kanati@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bitfield = "0.13"
+
